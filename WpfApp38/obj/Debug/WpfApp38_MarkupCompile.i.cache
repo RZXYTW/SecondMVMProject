@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\VsualStudio2022\深入浅出WPF\WpfApp38\WpfApp38\obj\Debug\
+E:\VsualStudio2022\深入浅出WPF\FirstMVVMProject\WpfApp38\obj\Debug\
 WpfApp38
 none
 false
 DEBUG;TRACE
-E:\VsualStudio2022\深入浅出WPF\WpfApp38\WpfApp38\App.xaml
-2-815984253
+E:\VsualStudio2022\深入浅出WPF\FirstMVVMProject\WpfApp38\App.xaml
+3-1628543424
 
-25502107055
-53-123185773
-MainWindow.xaml;Views\ContactEntryForm.xaml;
+26-1032846258
+53-144713713
+MainWindow.xaml;Views\AddressBookForm.xaml;Views\ContactEntryForm.xaml;
 
-False
+True
 

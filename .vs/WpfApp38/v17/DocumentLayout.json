@@ -3,28 +3,31 @@
   "WorkspaceRootPath": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|e:\\vsualstudio2022\\\u6DF1\u5165\u6D45\u51FAwpf\\firstmvvmproject\\wpfapp38\\services\\mockdeletebuttonsecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|solutionrelative:wpfapp38\\services\\mockdeletebuttonsecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|e:\\vsualstudio2022\\\u6DF1\u5165\u6D45\u51FAwpf\\firstmvvmproject\\wpfapp38\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|solutionrelative:wpfapp38\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\WpfApp38.csproj|E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\wpfapp38\\services\\mockdeletebuttonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\WpfApp38.csproj|solutionrelative:wpfapp38\\services\\mockdeletebuttonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|e:\\vsualstudio2022\\\u6DF1\u5165\u6D45\u51FAwpf\\firstmvvmproject\\wpfapp38\\views\\addressbookform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|solutionrelative:wpfapp38\\views\\addressbookform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\WpfApp38.csproj|E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\wpfapp38\\services\\dbdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\WpfApp38.csproj|solutionrelative:wpfapp38\\services\\dbdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\29045\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\WpfApp38.csproj|E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\wpfapp38\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\WpfApp38.csproj|solutionrelative:wpfapp38\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|e:\\vsualstudio2022\\\u6DF1\u5165\u6D45\u51FAwpf\\firstmvvmproject\\wpfapp38\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|solutionrelative:wpfapp38\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\WpfApp38.csproj|E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\wpfapp38\\viewmodels\\contactentryformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\WpfApp38.csproj|solutionrelative:wpfapp38\\viewmodels\\contactentryformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|e:\\vsualstudio2022\\\u6DF1\u5165\u6D45\u51FAwpf\\firstmvvmproject\\wpfapp38\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|solutionrelative:wpfapp38\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\WpfApp38.csproj|E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\wpfapp38\\views\\contactentryform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\WpfApp38.csproj|solutionrelative:wpfapp38\\views\\contactentryform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|e:\\vsualstudio2022\\\u6DF1\u5165\u6D45\u51FAwpf\\firstmvvmproject\\wpfapp38\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|solutionrelative:wpfapp38\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|e:\\vsualstudio2022\\\u6DF1\u5165\u6D45\u51FAwpf\\firstmvvmproject\\wpfapp38\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3FE79929-29C1-44F5-B477-1A0A76F504F6}|WpfApp38\\FirstMVVMProject.csproj|solutionrelative:wpfapp38\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 169,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,74 +46,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DBDataService.cs",
-              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\Services\\DBDataService.cs",
-              "RelativeDocumentMoniker": "WpfApp38\\Services\\DBDataService.cs",
-              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\Services\\DBDataService.cs",
-              "RelativeToolTip": "WpfApp38\\Services\\DBDataService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBQAAAAIAAAAAAAAAA==",
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\29045\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\29045\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAACcAAAAAAAAAAAAMwCoAAAAEAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T07:25:07.208Z"
+              "WhenOpened": "2025-05-21T02:58:47.473Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MockDeleteButtonService.cs",
-              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\Services\\MockDeleteButtonService.cs",
-              "RelativeDocumentMoniker": "WpfApp38\\Services\\MockDeleteButtonService.cs",
-              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\Services\\MockDeleteButtonService.cs",
-              "RelativeToolTip": "WpfApp38\\Services\\MockDeleteButtonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\packages.config",
+              "RelativeDocumentMoniker": "WpfApp38\\packages.config",
+              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\packages.config",
+              "RelativeToolTip": "WpfApp38\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T02:56:53.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp38\\App.xaml.cs",
+              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp38\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:52:28.557Z"
+              "WhenOpened": "2025-05-21T02:56:04.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MockDeleteButtonSecond.cs",
-              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\Services\\MockDeleteButtonSecond.cs",
-              "RelativeDocumentMoniker": "WpfApp38\\Services\\MockDeleteButtonSecond.cs",
-              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\Services\\MockDeleteButtonSecond.cs",
-              "RelativeToolTip": "WpfApp38\\Services\\MockDeleteButtonSecond.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp38\\App.xaml",
+              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\App.xaml",
+              "RelativeToolTip": "WpfApp38\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T02:55:33.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp38\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp38\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:41:01.964Z",
+              "WhenOpened": "2025-05-21T02:53:47.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "WpfApp38\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeToolTip": "WpfApp38\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAYwF8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:31:30.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContactEntryFormViewModel.cs",
-              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\ViewModels\\ContactEntryFormViewModel.cs",
-              "RelativeDocumentMoniker": "WpfApp38\\ViewModels\\ContactEntryFormViewModel.cs",
-              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\ViewModels\\ContactEntryFormViewModel.cs",
-              "RelativeToolTip": "WpfApp38\\ViewModels\\ContactEntryFormViewModel.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAswJ4AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:30:34.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ContactEntryForm.xaml",
-              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\Views\\ContactEntryForm.xaml",
-              "RelativeDocumentMoniker": "WpfApp38\\Views\\ContactEntryForm.xaml",
-              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\Views\\ContactEntryForm.xaml",
-              "RelativeToolTip": "WpfApp38\\Views\\ContactEntryForm.xaml",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp38\\MainWindow.xaml",
+              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp38\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-20T00:54:31.742Z"
+              "WhenOpened": "2025-05-21T02:50:48.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddressBookForm.xaml",
+              "DocumentMoniker": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\Views\\AddressBookForm.xaml",
+              "RelativeDocumentMoniker": "WpfApp38\\Views\\AddressBookForm.xaml",
+              "ToolTip": "E:\\VsualStudio2022\\\u6DF1\u5165\u6D45\u51FAWPF\\FirstMVVMProject\\WpfApp38\\Views\\AddressBookForm.xaml",
+              "RelativeToolTip": "WpfApp38\\Views\\AddressBookForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T02:50:11.984Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -186,6 +186,9 @@
     <Compile Include="Services\MockSearchButtonService.cs" />
     <Compile Include="ViewModels\ContactEntryFormViewModel.cs" />
     <Compile Include="ViewModels\MainWindowViewModel.cs" />
+    <Compile Include="Views\AddressBookForm.xaml.cs">
+      <DependentUpon>AddressBookForm.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\ContactEntryForm.xaml.cs">
       <DependentUpon>ContactEntryForm.xaml</DependentUpon>
     </Compile>
@@ -201,6 +204,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Views\AddressBookForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\ContactEntryForm.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 E:\VsualStudio2022\深入浅出WPF\FirstMVVMProject\WpfApp38\App.xaml
-2-815984253
+3-1628543424
 
-25502107055
+251049242360
 53-144713713
-MainWindow.xaml;Views\ContactEntryForm.xaml;
+MainWindow.xaml;Views\AddressBookForm.xaml;Views\ContactEntryForm.xaml;
 
-True
+False
 
