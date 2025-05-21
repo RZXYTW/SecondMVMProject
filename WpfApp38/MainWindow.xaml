@@ -1,0 +1,49 @@
+﻿<Window x:Class="WpfApp38.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp38"
+        mc:Ignorable="d"
+        Title="SearchContactInformation" Height="450" Width="800">
+    <Grid Background="#FFECE9D8">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <GroupBox Header="Contact" Margin="10,10,10,10" BorderBrush="Black">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Name:" FontSize="20"/>
+                <TextBox Text="{Binding Path=Name,Mode=OneWayToSource}" Width="100" FontSize="20" Margin="10"/>
+                <Label Content="Email:" FontSize="20"/>
+                <TextBox Text="{Binding Path=Email,Mode=OneWayToSource}" Width="100" FontSize="20" Margin="10"/>
+                <Label Content="Designnation:" FontSize="20"/>
+                <TextBox Text="{Binding Path=Designnation,Mode=OneWayToSource}" Width="100" FontSize="20" Margin="10"/>
+                <Button Content="Search" Command="{Binding SearchCommand}" Margin="10"/>
+                <Button Content="Add" Command="{Binding AddCommand}" Margin="10"/>
+            </StackPanel>
+        </GroupBox>
+        <DataGrid Grid.Row="1" AutoGenerateColumns="False" GridLinesVisibility="None" CanUserDeleteRows="False" 
+                  CanUserAddRows="False" Margin="0,4" FontSize="16" ItemsSource="{Binding ListCITable}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name"  Binding="{Binding Name}" Width="150"/>
+                <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="250"/>
+                <DataGridTextColumn Header="Designnation" Binding="{Binding Designnation}" Width="150"/>
+                <DataGridTemplateColumn Header="Action" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="Delete" VerticalAlignment="Center" HorizontalAlignment="Center"
+                                        Command="{Binding Path=DataContext.DeleteCommand,RelativeSource={RelativeSource Mode=FindAncestor,AncestorType={x:Type Window}}}"
+                                        CommandParameter="{Binding}" Width="100" Margin="5"/>
+                                <Button Content="Edit" VerticalAlignment="Center" HorizontalAlignment="Center" 
+                                        Command="{Binding Path=DataContext.EditCommand,RelativeSource={RelativeSource Mode=FindAncestor,AncestorType={x:Type Window}}}"
+                                        CommandParameter="{Binding}" Width="100" Margin="5"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
